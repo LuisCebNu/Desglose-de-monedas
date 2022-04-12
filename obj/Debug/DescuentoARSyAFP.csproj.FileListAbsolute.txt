@@ -1,0 +1,9 @@
+C:\Users\stars\source\repos\DescuentoARSyAFP\bin\Debug\DescuentoARSyAFP.exe.config
+C:\Users\stars\source\repos\DescuentoARSyAFP\bin\Debug\DescuentoARSyAFP.exe
+C:\Users\stars\source\repos\DescuentoARSyAFP\bin\Debug\DescuentoARSyAFP.pdb
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.csprojAssemblyReference.cache
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.Form1.resources
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.Properties.Resources.resources
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.csproj.GenerateResource.cache
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.exe
+C:\Users\stars\source\repos\DescuentoARSyAFP\obj\Debug\DescuentoARSyAFP.pdb
